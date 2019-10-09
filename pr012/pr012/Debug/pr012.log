@@ -1,0 +1,3 @@
+﻿  pr012.cpp
+C:\Users\user\source\repos\pr012\pr012\pr012.cpp(6,9): warning C4101: b: неиспользованная локальная переменная
+  pr012.vcxproj -> C:\Users\user\source\repos\pr012\Debug\pr012.exe
