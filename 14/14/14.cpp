@@ -3,7 +3,7 @@
 
 int main()
 {
-	int s, l1, r1, l2, r2;
+	int s, l1, r1, l2, r2, x1, x2;
 	bool znach = false;
 	std::cin >> s >> l1 >> r1 >> l2 >> r2;
 	int sohzn = l2;// сохранил значение
@@ -18,10 +18,12 @@ int main()
 			break;
 		}
 	}
+	x1 = l1;
+	x2 = l2;
 	if (znach) {
-		std::cout << l1 << ' ' << l2 << std::endl;
+		std::cout << x1 << ' ' << x2 << std::endl;
 	}
 	else {
-		std::cout << - 1 << std::endl;
+		std::cout << -1 << std::endl;
 	}
 }
