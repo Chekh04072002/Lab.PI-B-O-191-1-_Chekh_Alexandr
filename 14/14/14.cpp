@@ -3,7 +3,7 @@
 
 int main()
 {
-	int s, l1, r1, sohzn, r2;
+	int s, l1, r1, l2, r2;
 	bool znach = false;
 	std::cin >> s >> l1 >> r1 >> l2 >> r2;
 	int sohzn = l2;// сохранил значение
