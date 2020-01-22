@@ -1,0 +1,5 @@
+﻿  25.cpp
+C:\Users\user\source\repos\25\25\25.cpp(34,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\25\25\25.cpp(35,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\25\25\25.cpp(44,25): warning C4018:  <: несоответствие типов со знаком и без знака
+  25.vcxproj -> C:\Users\user\source\repos\25\Debug\25.exe
