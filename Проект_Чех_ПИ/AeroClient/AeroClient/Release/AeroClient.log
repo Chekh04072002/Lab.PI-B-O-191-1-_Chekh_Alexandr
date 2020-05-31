@@ -1,0 +1,60 @@
+﻿  AeroClient.cpp
+C:\Users\Kristina\Desktop\AeroClient\AeroClient\AeroClient.cpp(60,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Kristina\Desktop\AeroClient\AeroClient\AeroClient.cpp(62,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Kristina\Desktop\AeroClient\AeroClient\AeroClient.cpp(62,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Kristina\Desktop\AeroClient\AeroClient\AeroClient.cpp(73,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Kristina\Desktop\AeroClient\AeroClient\AeroClient.cpp(73,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Kristina\Desktop\AeroClient\AeroClient\AeroClient.cpp(79,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Kristina\Desktop\AeroClient\AeroClient\AeroClient.cpp(81,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Kristina\Desktop\AeroClient\AeroClient\AeroClient.cpp(84,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Kristina\Desktop\AeroClient\AeroClient\AeroClient.cpp(86,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Kristina\Desktop\AeroClient\AeroClient\AeroClient.cpp(86,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Kristina\Desktop\AeroClient\AeroClient\AeroClient.cpp(89,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Kristina\Desktop\AeroClient\AeroClient\AeroClient.cpp(91,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Kristina\Desktop\AeroClient\AeroClient\AeroClient.cpp(91,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Kristina\Desktop\AeroClient\AeroClient\AeroClient.cpp(94,30): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Kristina\Desktop\AeroClient\AeroClient\AeroClient.cpp(99,30): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Kristina\Desktop\AeroClient\AeroClient\AeroClient.cpp(101,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Kristina\Desktop\AeroClient\AeroClient\AeroClient.cpp(104,41): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Kristina\Desktop\AeroClient\AeroClient\AeroClient.cpp(109,41): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Kristina\Desktop\AeroClient\AeroClient\AeroClient.cpp(111,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Kristina\Desktop\AeroClient\AeroClient\AeroClient.cpp(114,42): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Kristina\Desktop\AeroClient\AeroClient\AeroClient.cpp(116,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Kristina\Desktop\AeroClient\AeroClient\AeroClient.cpp(119,42): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Kristina\Desktop\AeroClient\AeroClient\AeroClient.cpp(121,45): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Kristina\Desktop\AeroClient\AeroClient\AeroClient.cpp(121,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Kristina\Desktop\AeroClient\AeroClient\AeroClient.cpp(198,55): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Kristina\Desktop\AeroClient\AeroClient\AeroClient.cpp(198,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Kristina\Desktop\AeroClient\AeroClient\AeroClient.cpp(237,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Kristina\Desktop\AeroClient\AeroClient\AeroClient.cpp(241,55): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Kristina\Desktop\AeroClient\AeroClient\AeroClient.cpp(241,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  122 of 123 functions (99.2%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  AeroClient.vcxproj -> C:\Users\Kristina\Desktop\AeroClient\Release\AeroClient.exe

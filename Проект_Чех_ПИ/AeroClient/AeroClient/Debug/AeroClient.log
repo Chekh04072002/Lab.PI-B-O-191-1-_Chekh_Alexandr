@@ -1,0 +1,12 @@
+﻿  AeroClient.cpp
+C:\Users\bekir\source\repos\AeroClient\AeroClient\AeroClient.cpp(22,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroClient\AeroClient\AeroClient.cpp(52,13): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroClient\AeroClient\AeroClient.cpp(53,13): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroClient\AeroClient\AeroClient.cpp(58,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroClient\AeroClient\AeroClient.cpp(59,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroClient\AeroClient\AeroClient.cpp(66,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroClient\AeroClient\AeroClient.cpp(67,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroClient\AeroClient\AeroClient.cpp(121,13): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroClient\AeroClient\AeroClient.cpp(122,13): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroClient\AeroClient\AeroClient.cpp(160,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  AeroClient.vcxproj -> C:\Users\bekir\source\repos\AeroClient\Debug\AeroClient.exe
